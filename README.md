@@ -26,8 +26,8 @@ Set up professional profiles on GitHub and LinkedIn.
 * Task 3: Platforms
 Completed a coding challenge on HackerRank and created a Google Form quiz.
 
- Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepOO4-rl8rEeFE1VhoGx5uDbYFQL95OPW76S7VMkPK-Xe13w/viewform?usp=publish-editor
-
+ Google Form Link: https://docs.google.com/forms/d/1zr7AwmgUhdBIVxHSNIGPUEnJtneO00Hh2QwG7cmv0Fw/edit
+ 
 * Task 4: Email Etiquette
 Drafted professional emails and created a social media checklist.
 
